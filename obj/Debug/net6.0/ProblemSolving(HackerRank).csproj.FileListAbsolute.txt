@@ -1,0 +1,15 @@
+E:\A1Programming\Training Coding\Problem Solving\HackerRank\ProblemSolving(HackerRank)\bin\Debug\net6.0\ProblemSolving(HackerRank).exe
+E:\A1Programming\Training Coding\Problem Solving\HackerRank\ProblemSolving(HackerRank)\bin\Debug\net6.0\ProblemSolving(HackerRank).deps.json
+E:\A1Programming\Training Coding\Problem Solving\HackerRank\ProblemSolving(HackerRank)\bin\Debug\net6.0\ProblemSolving(HackerRank).runtimeconfig.json
+E:\A1Programming\Training Coding\Problem Solving\HackerRank\ProblemSolving(HackerRank)\bin\Debug\net6.0\ProblemSolving(HackerRank).dll
+E:\A1Programming\Training Coding\Problem Solving\HackerRank\ProblemSolving(HackerRank)\bin\Debug\net6.0\ProblemSolving(HackerRank).pdb
+E:\A1Programming\Training Coding\Problem Solving\HackerRank\ProblemSolving(HackerRank)\obj\Debug\net6.0\ProblemSolving(HackerRank).csproj.AssemblyReference.cache
+E:\A1Programming\Training Coding\Problem Solving\HackerRank\ProblemSolving(HackerRank)\obj\Debug\net6.0\ProblemSolving(HackerRank).GeneratedMSBuildEditorConfig.editorconfig
+E:\A1Programming\Training Coding\Problem Solving\HackerRank\ProblemSolving(HackerRank)\obj\Debug\net6.0\ProblemSolving(HackerRank).AssemblyInfoInputs.cache
+E:\A1Programming\Training Coding\Problem Solving\HackerRank\ProblemSolving(HackerRank)\obj\Debug\net6.0\ProblemSolving(HackerRank).AssemblyInfo.cs
+E:\A1Programming\Training Coding\Problem Solving\HackerRank\ProblemSolving(HackerRank)\obj\Debug\net6.0\ProblemSolving(HackerRank).csproj.CoreCompileInputs.cache
+E:\A1Programming\Training Coding\Problem Solving\HackerRank\ProblemSolving(HackerRank)\obj\Debug\net6.0\ProblemSolving(HackerRank).dll
+E:\A1Programming\Training Coding\Problem Solving\HackerRank\ProblemSolving(HackerRank)\obj\Debug\net6.0\refint\ProblemSolving(HackerRank).dll
+E:\A1Programming\Training Coding\Problem Solving\HackerRank\ProblemSolving(HackerRank)\obj\Debug\net6.0\ProblemSolving(HackerRank).pdb
+E:\A1Programming\Training Coding\Problem Solving\HackerRank\ProblemSolving(HackerRank)\obj\Debug\net6.0\ProblemSolving(HackerRank).genruntimeconfig.cache
+E:\A1Programming\Training Coding\Problem Solving\HackerRank\ProblemSolving(HackerRank)\obj\Debug\net6.0\ref\ProblemSolving(HackerRank).dll
