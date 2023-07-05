@@ -1,2 +1,2 @@
 # HackerRank-Problems
-Its is a simple repo to practice problem solving in HackerRank website.
+It is a simple repo to practice problem-solving on the HackerRank website.
