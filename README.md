@@ -13,6 +13,10 @@ It serves as a practice ground for sharpening your coding skills and tackling va
    - Description: Given two arrays of integers representing Alice's and Bob's ratings for various aspects, compare their ratings and determine the winner.
    - Solution: [CompareTheTriplets.cs](./Easy/CompareTheTriplets.cs)
 
+2. [A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem?isFullScreen=true&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen)
+   - Description: You are required to calculate and print the sum of the elements in an array, keeping in mind that some of those integers may be quite large.
+   - Solution: [AVeryBigSum.cs](./Easy/AVeryBigSum.cs)
+
 Feel free to explore the solutions in the respective directories for each problem.
 
 ## Contributing
