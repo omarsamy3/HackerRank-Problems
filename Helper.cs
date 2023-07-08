@@ -17,5 +17,18 @@ namespace ProblemSolving_HackerRank_
 			}
             Console.WriteLine("]");
         }
+
+		public static void PrintSquareMatrix<T>(List<List<T>> arr)
+		{
+			var n = arr.Count;
+			for (int i = 0; i < n; i++)
+			{
+				for (int j = 0; j < n; j++)
+				{
+					Console.Write(arr[i][j] + "   ");
+                }
+                Console.WriteLine();
+            }
+		}
 	}
 }

@@ -1,0 +1,28 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ProblemSolving_HackerRank_.Easy
+{
+	internal static class DiagonalDifference
+	{
+		public static int diagonalDifference(List<List<int>> arr)
+		{
+			var n = arr.Count();
+			var LTR = 0;
+			var RTL = 0;
+
+			for (int i = 0; i < n; i++)
+			{
+				for (int j = 0; j < n; j++)
+				{
+					if (i == j) LTR += arr[i][j];
+					if(i + j == n - 1) RTL += arr[i][j];
+				}
+            }
+            return Math.Abs(LTR - RTL);
+		}
+	}
+}
