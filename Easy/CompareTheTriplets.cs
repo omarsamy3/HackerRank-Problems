@@ -8,6 +8,15 @@ namespace ProblemSolving_HackerRank_.Easy
 {
 	internal static class CompareTheTriplets
 	{
+		/// <summary>
+		/// Given two arrays of integers representing Alice's and Bob's ratings for various aspects,
+		/// compare their ratings and determine the winner.
+		/// </summary>
+		/// <param name="a"></param>
+		/// <param name="b"></param>
+		/// <returns>A list of two elements: the first list result, and the second list result.</returns>
+		/// <exception cref="ArgumentException"></exception>
+		/// <exception cref="ArgumentOutOfRangeException"></exception>
 		public static List<int> compareTriplets(List<int> a, List<int> b)
 		{
 			if (a.Count != b.Count) 

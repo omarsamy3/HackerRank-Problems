@@ -8,6 +8,11 @@ namespace ProblemSolving_HackerRank_.Easy
 {
 	internal static class DiagonalDifference
 	{
+		/// <summary>
+		/// Given a square matrix, calculate the absolute difference between the sums of its diagonals.
+		/// </summary>
+		/// <param name="arr"></param>
+		/// <returns>The absolute difference of diagonals sums.</returns>
 		public static int diagonalDifference(List<List<int>> arr)
 		{
 			var n = arr.Count();
