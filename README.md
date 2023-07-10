@@ -7,19 +7,19 @@ It serves as a practice ground for sharpening your coding skills and tackling va
 
 1. [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum/problem?isFullScreen=true)
    - Description: Given an array of integers, find the sum of its elements.
-   - Solution: [SimpleArraySum.cs](./Easy/SimpleArraySum.cs)
+   - Solution: [SimpleArraySum.cs](./ProblemSolving(HackerRank)/Easy/SimpleArraySum.cs)
 
 2. [Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem?isFullScreen=true&h_r=next-challenge&h_v=zen)
    - Description: Given two arrays of integers representing Alice's and Bob's ratings for various aspects, compare their ratings and determine the winner.
-   - Solution: [CompareTheTriplets.cs](./Easy/CompareTheTriplets.cs)
+   - Solution: [CompareTheTriplets.cs](./ProblemSolving(HackerRank)/Easy/CompareTheTriplets.cs)
 
 3. [A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem?isFullScreen=true&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen)
    - Description: You are required to calculate and print the sum of the elements in an array, keeping in mind that some of those integers may be quite large.
-   - Solution: [AVeryBigSum.cs](./Easy/AVeryBigSum.cs)
+   - Solution: [AVeryBigSum.cs](./ProblemSolving(HackerRank)/Easy/AVeryBigSum.cs)
 
 4. [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem?isFullScreen=true&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen)
    - Description: Given a square matrix, calculate the absolute difference between the sums of its diagonals.
-   - Solution: [DiagonalDifference.cs](./Easy/DiagonalDifference.cs)
+   - Solution: [DiagonalDifference.cs](./ProblemSolving(HackerRank)/Easy/DiagonalDifference.cs)
 
 Feel free to explore the solutions in the respective directories for each problem.
 
