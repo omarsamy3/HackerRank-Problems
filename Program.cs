@@ -1,5 +1,6 @@
 ﻿using ProblemSolving_HackerRank_;
 using ProblemSolving_HackerRank_.Easy;
+using ProblemSolving_HackerRank_.Tests;
 
 //Simple Array Sum
 Console.WriteLine(SimpleArraySum.simpleArraySum(new List<int>() { 1, 2, 3, 4, 10, 11 })); //31
