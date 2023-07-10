@@ -21,6 +21,10 @@ It serves as a practice ground for sharpening your coding skills and tackling va
    - Description: Given a square matrix, calculate the absolute difference between the sums of its diagonals.
    - Solution: [DiagonalDifference.cs](./ProblemSolving(HackerRank)/Easy/DiagonalDifference.cs)
 
+5. [Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem?isFullScreen=true&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen)
+   - Description: Given an array of integers, calculate the ratios of its elements that are positive, negative, and zero. Print the decimal value of each fraction on a new line with  places after the decimal.
+   - Solution: [PlusMinus.cs](./ProblemSolving(HackerRank)/Easy/PlusMinus.cs)
+
 Feel free to explore the solutions in the respective directories for each problem.
 
 ## Contributing
