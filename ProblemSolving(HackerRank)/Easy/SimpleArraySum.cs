@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ProblemSolving_HackerRank_.Easy
 {
-	internal static class SimpleArraySum
+	public static class SimpleArraySum
 	{
 		/// <summary>
 		/// Get the summation of array of integers.

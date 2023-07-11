@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ProblemSolving_HackerRank_.Easy
 {
-	internal static class CompareTheTriplets
+	public static class CompareTheTriplets
 	{
 		/// <summary>
 		/// Given two arrays of integers representing Alice's and Bob's ratings for various aspects,
@@ -26,10 +26,6 @@ namespace ProblemSolving_HackerRank_.Easy
 			var result2 = 0;
 			for (int i = 0; i < a.Count; i++)
 			{
-				if (a[i] < 1 || a[i] > 100 &&
-					b[i] < 1 || b[i] > 100) 
-					throw new ArgumentOutOfRangeException("Must be in 1 - 100 range.");
-
 				if (a[i] > b[i]) result1++;
 				if (a[i] < b[i]) result2++;
 			}

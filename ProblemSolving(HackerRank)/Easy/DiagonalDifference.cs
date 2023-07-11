@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ProblemSolving_HackerRank_.Easy
 {
-	internal static class DiagonalDifference
+	public static class DiagonalDifference
 	{
 		/// <summary>
 		/// Given a square matrix, calculate the absolute difference between the sums of its diagonals.

@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace ProblemSolving_HackerRank_.Easy
 {
-	internal static class PlusMinus
+	public static class PlusMinus
 	{
 		/// <summary>
 		/// Given an array of integers, calculate the ratios of its elements that are positive, negative, and zero. 

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ProblemSolving_HackerRank_.Easy
 {
-	internal static class AVeryBigSum
+	public static class AVeryBigSum
 	{
 		/// <summary>
 		/// ou are required to calculate and print the sum of the elements in an array,
