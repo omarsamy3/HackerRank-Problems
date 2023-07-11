@@ -29,3 +29,6 @@ Console.WriteLine(DiagonalDifference.diagonalDifference(SquareMatrix)); //2
 
 
 PlusMinus.plusMinus(new List<int>() { -4, 3, -9, 0, 4, 1 });
+
+
+Staircase.staircase(6);

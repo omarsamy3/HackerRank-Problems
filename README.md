@@ -30,6 +30,11 @@ It serves as a practice ground for sharpening your coding skills and tackling va
    - Solution: [PlusMinus.cs](./ProblemSolving(HackerRank)/Easy/PlusMinus.cs)
    - Unit Tests: [PlusMinusTests.cs](./HackerRankProblems.Tests/Easy/PlusMinusTests.cs)
 
+6. [Staircase](https://www.hackerrank.com/challenges/staircase/problem?isFullScreen=true&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen)
+   - Description: The Staircase problem involves printing a pattern of '#' symbols representing a staircase of a given height 'n'. Each line contains a specific number of '#' symbols, forming a staircase shape.
+   - Solution: [Staircase.cs](./ProblemSolving(HackerRank)/Easy/Staircase.cs)
+   - Unit Tests: [StaircaseTests.cs](./HackerRankProblems.Tests/Easy/StaircaseTests.cs)
+
 Feel free to explore the solutions in the respective directories for each problem.
 
 ## Contributing
