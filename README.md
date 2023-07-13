@@ -35,6 +35,11 @@ It serves as a practice ground for sharpening your coding skills and tackling va
    - Solution: [Staircase.cs](./ProblemSolving(HackerRank)/Easy/Staircase.cs)
    - Unit Tests: [StaircaseTests.cs](./HackerRankProblems.Tests/Easy/StaircaseTests.cs)
 
+7. [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem?isFullScreen=true&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen)
+   - Description: Given five positive integers, find the minimum and maximum values that can be calculated by summing exactly four of the five integers. Then print the respective minimum and maximum values as a single line of two space-separated long integers.
+   - Solution: [MiniMaxSum.cs](./ProblemSolving(HackerRank)/Easy/MiniMaxSum.cs)
+   - Unit Tests: [MiniMaxSumTests.cs](./HackerRankProblems.Tests/Easy/MiniMaxSumTests.cs)
+
 Feel free to explore the solutions in the respective directories for each problem.
 
 ## Contributing
