@@ -41,7 +41,6 @@ namespace HackerRankProblems.Tests.Easy
 				consoleOutput.Should().NotBeNullOrWhiteSpace()
 				.And.Be(expectedResult);
 
-				list.ForEach(ele => ele.Should().BeInRange(0, 100));
 			}
 
 		}

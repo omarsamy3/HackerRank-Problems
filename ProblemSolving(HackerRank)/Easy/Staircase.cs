@@ -8,6 +8,11 @@ namespace ProblemSolving_HackerRank_.Easy
 {
 	public static class Staircase
 	{
+		/// <summary>
+		/// The Staircase problem involves printing a pattern of '#' symbols representing a staircase of a given height 'n'. 
+		/// Each line contains a specific number of '#' symbols, forming a staircase shape.
+		/// </summary>
+		/// <param name="n"></param>
 		public static void staircase(int n)
 		{
 			for (int i = 1; i <= n; i++)

@@ -8,6 +8,11 @@ namespace ProblemSolving_HackerRank_.Easy
 {
 	public static class TimeConversion
 	{
+		/// <summary>
+		/// Given a time in 12-hour AM/PM format, convert it to military (24-hour) time.
+		/// </summary>
+		/// <param name="s"></param>
+		/// <returns>The converted time in 24-hour time.</returns>
 		public static string timeConversion(string s)
 		{
 			var hours = int.Parse($"{s[0]}{s[1]}");

@@ -2,10 +2,7 @@
 using ProblemSolving_HackerRank_.Easy;
 
 
-Console.WriteLine(TimeConversion.timeConversion("12:01:00PM"));
-Console.WriteLine(TimeConversion.timeConversion("05:01:00PM"));
-Console.WriteLine(TimeConversion.timeConversion("12:01:00AM"));
-Console.WriteLine(TimeConversion.timeConversion("01:01:00AM"));
+
 
 //TryAll();
 void TryAll()
@@ -26,6 +23,7 @@ void TryAll()
 
 
 
+	//Diagonal Difference
 	var SquareMatrix = new List<List<int>>()
 {
 	new List<int>(){1, 2, 3},
@@ -36,14 +34,21 @@ void TryAll()
 	Helper.PrintSquareMatrix(SquareMatrix);
 	Console.WriteLine(DiagonalDifference.diagonalDifference(SquareMatrix)); //2
 
-
+	//Plus Minus
 	PlusMinus.plusMinus(new List<int>() { -4, 3, -9, 0, 4, 1 });
 
-
+	//Staircase
 	Staircase.staircase(10);
 
+	//Min Max Sum
 	MiniMaxSum.miniMaxSum(
 	   new List<int>()
 	   { 256741038, 623958417, 467905213, 714532089, 938071625 }); //2063136757 2744467344
+
+	//Time Conversion
+	Console.WriteLine(TimeConversion.timeConversion("12:01:00PM"));
+	Console.WriteLine(TimeConversion.timeConversion("05:01:00PM"));
+	Console.WriteLine(TimeConversion.timeConversion("12:01:00AM"));
+	Console.WriteLine(TimeConversion.timeConversion("01:01:00AM"));
 
 }
