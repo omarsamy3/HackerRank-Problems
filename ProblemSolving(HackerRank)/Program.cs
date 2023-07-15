@@ -1,10 +1,12 @@
 ﻿using ProblemSolving_HackerRank_;
 using ProblemSolving_HackerRank_.Easy;
 
-MiniMaxSum.miniMaxSum(
-	   new List<int>() 
-	   { 256741038, 623958417, 467905213, 714532089, 938071625 }); //2063136757 2744467344
-	
+
+Console.WriteLine(TimeConversion.timeConversion("12:01:00PM"));
+Console.WriteLine(TimeConversion.timeConversion("05:01:00PM"));
+Console.WriteLine(TimeConversion.timeConversion("12:01:00AM"));
+Console.WriteLine(TimeConversion.timeConversion("01:01:00AM"));
+
 //TryAll();
 void TryAll()
 {
@@ -39,4 +41,9 @@ void TryAll()
 
 
 	Staircase.staircase(10);
+
+	MiniMaxSum.miniMaxSum(
+	   new List<int>()
+	   { 256741038, 623958417, 467905213, 714532089, 938071625 }); //2063136757 2744467344
+
 }
