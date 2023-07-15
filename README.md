@@ -40,6 +40,11 @@ It serves as a practice ground for sharpening your coding skills and tackling va
    - Solution: [MiniMaxSum.cs](./ProblemSolving(HackerRank)/Easy/MiniMaxSum.cs)
    - Unit Tests: [MiniMaxSumTests.cs](./HackerRankProblems.Tests/Easy/MiniMaxSumTests.cs)
 
+8. [Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem?isFullScreen=true)
+   - Description: Given a time in 12-hour AM/PM format, convert it to military (24-hour) time.
+   - Solution: [TimeConversion.cs](./ProblemSolving(HackerRank)/Easy/TimeConversion.cs)
+   - Unit Tests: [TimeConversionTests.cs](./HackerRankProblems.Tests/Easy/TimeConversionTests.cs)
+
 Feel free to explore the solutions in the respective directories for each problem.
 
 ## Contributing
