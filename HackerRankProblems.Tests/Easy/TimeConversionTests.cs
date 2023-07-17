@@ -19,7 +19,7 @@ namespace HackerRankProblems.Tests.Easy
 
 		[Theory]
 		[MemberData(nameof(TestData))]
-		public void SimpleArraySum_simpleArraySum_returnASumResultAsInteger(string input, string expectedResult)
+		public void TimeConversion_timeConversion_ReturnTimeAfterConversion(string input, string expectedResult)
 		{
 			//Act
 			var result = TimeConversion.timeConversion(input);

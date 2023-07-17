@@ -23,7 +23,7 @@ namespace HackerRankProblems.Tests.Easy
 
 		[Theory]
 		[MemberData(nameof(TestData))]
-		public void Staircase_staircase_ReturnStaircaseString(List<int> list, string expectedResult)
+		public void MiniMaxSum_miniMaxSum_ReturnMinMaxSummation(List<int> list, string expectedResult)
 		{
 			//Redirect console output to capture it
 			using (StringWriter sw = new StringWriter())

@@ -2,7 +2,11 @@
 using ProblemSolving_HackerRank_.Easy;
 
 
-
+Console.WriteLine(DayOfTheProgrammer.dayOfProgrammer(1984)); //12.09.1984
+Console.WriteLine(DayOfTheProgrammer.dayOfProgrammer(2017)); //13.09.2017
+Console.WriteLine(DayOfTheProgrammer.dayOfProgrammer(1800)); //12.09.1984
+Console.WriteLine(DayOfTheProgrammer.dayOfProgrammer(2016)); //12.09.2017
+Console.WriteLine(DayOfTheProgrammer.dayOfProgrammer(1918)); //26.09.2017
 
 //TryAll();
 void TryAll()
@@ -49,6 +53,6 @@ void TryAll()
 	Console.WriteLine(TimeConversion.timeConversion("12:01:00PM"));
 	Console.WriteLine(TimeConversion.timeConversion("05:01:00PM"));
 	Console.WriteLine(TimeConversion.timeConversion("12:01:00AM"));
-	Console.WriteLine(TimeConversion.timeConversion("01:01:00AM"));
+	Console.WriteLine(TimeConversion.timeConversion("01:01:00AM"));  
 
 }

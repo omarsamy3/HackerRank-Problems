@@ -45,6 +45,14 @@ It serves as a practice ground for sharpening your coding skills and tackling va
    - Solution: [TimeConversion.cs](./ProblemSolving(HackerRank)/Easy/TimeConversion.cs)
    - Unit Tests: [TimeConversionTests.cs](./HackerRankProblems.Tests/Easy/TimeConversionTests.cs)
 
+9. [Day of the Programmer](https://www.hackerrank.com/challenges/day-of-the-programmer/problem?isFullScreen=true)
+   - Description: Given a year, y, 
+   find the date of the 256th day of that year according to the official Russian calendar 
+   during that year. Then print it in the format dd.mm.yyyy, where dd is the two-digit day, 
+   mm is the two-digit month, and yyyy is y.
+   - Solution: [DayOfTheProgrammer.cs](./ProblemSolving(HackerRank)/Easy/DayOfTheProgrammer.cs)
+   - Unit Tests: [DayOfTheProgrammerTests.cs](./HackerRankProblems.Tests/Easy/DayOfTheProgrammerTests.cs)
+
 Feel free to explore the solutions in the respective directories for each problem.
 
 ## Contributing
