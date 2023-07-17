@@ -15,7 +15,7 @@ namespace ProblemSolving_HackerRank_.Easy
 		/// where dd is the two-digit day, mm is the two-digit month, and yyyy is <paramref name="year"/>.
 		/// </summary>
 		/// <param name="year"></param>
-		/// <returns></returns>
+		/// <returns>The day of the programmer as a string.</returns>
 		public static string dayOfProgrammer(int year)
 		{
 			if (year == 1918) return "26.09.1918"; //Transition year
