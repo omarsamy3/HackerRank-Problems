@@ -53,6 +53,12 @@ It serves as a practice ground for sharpening your coding skills and tackling va
    - Solution: [DayOfTheProgrammer.cs](./ProblemSolving(HackerRank)/Easy/DayOfTheProgrammer.cs)
    - Unit Tests: [DayOfTheProgrammerTests.cs](./HackerRankProblems.Tests/Easy/DayOfTheProgrammerTests.cs)
 
+10. [Bill Division](https://www.hackerrank.com/challenges/bon-appetit/problem?isFullScreen=true&h_r=next-challenge&h_v=zen)
+- Description: It should print Bon Appetit if the bill is fairly split. 
+Otherwise, it should print the integer amount of money that Brian owes Anna.
+- Solution: [BillDivision.cs](./ProblemSolving(HackerRank)/Easy/BillDivision.cs)
+- Unit Tests: [BillDivisionTests.cs](./HackerRankProblems.Tests/Easy/BillDivisionTests.cs)
+
 Feel free to explore the solutions in the respective directories for each problem.
 
 ## Contributing
