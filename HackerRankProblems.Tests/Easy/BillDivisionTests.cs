@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace HackerRankProblems.Tests.Easy
 {
-	public class BillDivisionTest
+	public class BillDivisionTests
 	{
 		public static IEnumerable<object[]> TestData()
 		{
