@@ -1,11 +1,19 @@
 ﻿using ProblemSolving_HackerRank_;
 using ProblemSolving_HackerRank_.Easy;
+using ProblemSolving_HackerRank_.Medium;
 
+Helper.PrintList(SparseArrays.matchingStrings(
+	new List<string>() { "aba", "baba", "aba", "xzxb"}, 
+	new List<string>() { "aba", "xzxb", "ab"})); //[2, 1, 0]
 
+Helper.PrintList(SparseArrays.matchingStrings(
+	new List<string>() { "def", "de", "fgh" },
+	new List<string>() { "de", "lmn", "fgh" })); //[1, 0, 1]
+Helper.PrintList(SparseArrays.matchingStrings(
+	new List<string>() { "abcde","sdaklfj","asdjf","na","basdn",
+					"sdaklfj","asdjf","na","asdjf","na","basdn","sdaklfj","asdjf" },
+	new List<string>() { "abcde", "sdaklfj", "asdjf", "na", "basdn" })); //[1, 3, 4, 3, 2]
 
-
-BillDivision.bonAppetit(new List<int>() { 3, 10, 2, 9}, 1, 12);
-BillDivision.bonAppetit(new List<int>() { 3, 10, 2, 9}, 1, 7);
 
 //TryAll();
 void TryAll()
@@ -62,6 +70,7 @@ void TryAll()
 	Console.WriteLine(DayOfTheProgrammer.dayOfProgrammer(1918)); //26.09.2017
 
 	//Bill Division
-
+	BillDivision.bonAppetit(new List<int>() { 3, 10, 2, 9 }, 1, 12);
+	BillDivision.bonAppetit(new List<int>() { 3, 10, 2, 9 }, 1, 7);
 
 }
