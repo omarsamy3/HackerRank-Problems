@@ -61,12 +61,12 @@ Otherwise, it should print the integer amount of money that Brian owes Anna.
 
 ## Medium Problems
 
-1. [Spares Arrays](https://www.hackerrank.com/challenges/sparse-arrays/problem?isFullScreen=true)
+1. [Sparse Arrays](https://www.hackerrank.com/challenges/sparse-arrays/problem?isFullScreen=true)
 - Description: There is a collection of input strings and a collection of query strings. 
 For each query string, determine how many times it occurs in the list of input strings. 
 Return an array of the results.
-- Solution: [SparesArrays.cs](./ProblemSolving(HackerRank)/Medium/SparesArrays.cs)
-- Unit Tests: [SparesArraysTests.cs](./HackerRankProblems.Tests/Medium/SparesArraysTests.cs)
+- Solution: [SparseArrays.cs](./ProblemSolving(HackerRank)/Medium/SparseArrays.cs)
+- Unit Tests: [SparseArraysTests.cs](./HackerRankProblems.Tests/Medium/SparseArraysTests.cs)
 
 Feel free to explore the solutions in the respective directories for each problem.
 
