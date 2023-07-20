@@ -1,18 +1,21 @@
 ﻿using ProblemSolving_HackerRank_;
 using ProblemSolving_HackerRank_.Easy;
+using ProblemSolving_HackerRank_.Hard;
 using ProblemSolving_HackerRank_.Medium;
 
-Helper.PrintList(SparseArrays.matchingStrings(
-	new List<string>() { "aba", "baba", "aba", "xzxb"}, 
-	new List<string>() { "aba", "xzxb", "ab"})); //[2, 1, 0]
+Console.WriteLine(ArrayManipulation.arrayManipulation(10, new List<List<int>>() 
+{ 
+	new List<int>() { 1, 5, 3 } ,
+	new List<int>() { 4, 8, 7 } ,
+	new List<int>() { 6, 9, 1 } ,
+})); //10
 
-Helper.PrintList(SparseArrays.matchingStrings(
-	new List<string>() { "def", "de", "fgh" },
-	new List<string>() { "de", "lmn", "fgh" })); //[1, 0, 1]
-Helper.PrintList(SparseArrays.matchingStrings(
-	new List<string>() { "abcde","sdaklfj","asdjf","na","basdn",
-					"sdaklfj","asdjf","na","asdjf","na","basdn","sdaklfj","asdjf" },
-	new List<string>() { "abcde", "sdaklfj", "asdjf", "na", "basdn" })); //[1, 3, 4, 3, 2]
+Console.WriteLine(ArrayManipulation.arrayManipulation(5, new List<List<int>>()
+{
+	new List<int>() { 1, 2, 100 } ,
+	new List<int>() { 2, 5, 100 } ,
+	new List<int>() { 3, 4, 100 } ,
+})); //200
 
 
 //TryAll();
@@ -72,5 +75,21 @@ void TryAll()
 	//Bill Division
 	BillDivision.bonAppetit(new List<int>() { 3, 10, 2, 9 }, 1, 12);
 	BillDivision.bonAppetit(new List<int>() { 3, 10, 2, 9 }, 1, 7);
+
+	//Sparse Arrays
+	Helper.PrintList(SparseArrays.matchingStrings(
+	new List<string>() { "aba", "baba", "aba", "xzxb" },
+	new List<string>() { "aba", "xzxb", "ab" })); //[2, 1, 0]
+
+	Helper.PrintList(SparseArrays.matchingStrings(
+		new List<string>() { "def", "de", "fgh" },
+		new List<string>() { "de", "lmn", "fgh" })); //[1, 0, 1]
+	Helper.PrintList(SparseArrays.matchingStrings(
+		new List<string>() { "abcde","sdaklfj","asdjf","na","basdn",
+					"sdaklfj","asdjf","na","asdjf","na","basdn","sdaklfj","asdjf" },
+		new List<string>() { "abcde", "sdaklfj", "asdjf", "na", "basdn" })); //[1, 3, 4, 3, 2]
+
+
+	//
 
 }
