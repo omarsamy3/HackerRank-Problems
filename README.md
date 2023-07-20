@@ -68,6 +68,15 @@ Return an array of the results.
 - Solution: [SparseArrays.cs](./ProblemSolving(HackerRank)/Medium/SparseArrays.cs)
 - Unit Tests: [SparseArraysTests.cs](./HackerRankProblems.Tests/Medium/SparseArraysTests.cs)
 
+## Hard Problems
+
+1. [Array Manipulation](https://www.hackerrank.com/challenges/crush/problem?isFullScreen=true)
+- Description: Starting with a 1-indexed array of zeros and a list of operations, 
+for each operation add a value to each the array element between two given indices, inclusive. 
+Once all operations have been performed, return the maximum value in the array.
+- Solution: [ArrayManipulation.cs](./ProblemSolving(HackerRank)/Hard/ArrayManipulation.cs)
+- Unit Tests: [ArrayManipulationTests.cs](./HackerRankProblems.Tests/Hard/ArrayManipulationTests.cs)
+
 Feel free to explore the solutions in the respective directories for each problem.
 
 ## Contributing
