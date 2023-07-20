@@ -3,19 +3,7 @@ using ProblemSolving_HackerRank_.Easy;
 using ProblemSolving_HackerRank_.Hard;
 using ProblemSolving_HackerRank_.Medium;
 
-Console.WriteLine(ArrayManipulation.arrayManipulation(10, new List<List<int>>() 
-{ 
-	new List<int>() { 1, 5, 3 } ,
-	new List<int>() { 4, 8, 7 } ,
-	new List<int>() { 6, 9, 1 } ,
-})); //10
 
-Console.WriteLine(ArrayManipulation.arrayManipulation(5, new List<List<int>>()
-{
-	new List<int>() { 1, 2, 100 } ,
-	new List<int>() { 2, 5, 100 } ,
-	new List<int>() { 3, 4, 100 } ,
-})); //200
 
 
 //TryAll();
@@ -90,6 +78,26 @@ void TryAll()
 		new List<string>() { "abcde", "sdaklfj", "asdjf", "na", "basdn" })); //[1, 3, 4, 3, 2]
 
 
-	//
+	//ArrayManipulation
+	Console.WriteLine(ArrayManipulation.arrayManipulation(10, new List<List<int>>()
+{
+	new List<int>() { 1, 5, 3 } ,
+	new List<int>() { 4, 8, 7 } ,
+	new List<int>() { 6, 9, 1 } ,
+})); //10
+
+	Console.WriteLine(ArrayManipulation.arrayManipulation(5, new List<List<int>>()
+{
+	new List<int>() { 1, 2, 100 } ,
+	new List<int>() { 2, 5, 100 } ,
+	new List<int>() { 3, 4, 100 } ,
+})); //200
+
+	//Print LinkedList
+	var node = new SinglyLinkedListNode();
+	node.data = 16;
+	node.next = new SinglyLinkedListNode() { data = 13 };
+
+	PrintTheElementsOfALinkedList.printLinkedList(node);
 
 }
