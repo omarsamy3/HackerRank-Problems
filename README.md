@@ -59,6 +59,16 @@ Otherwise, it should print the integer amount of money that Brian owes Anna.
 - Solution: [BillDivision.cs](./ProblemSolving(HackerRank)/Easy/BillDivision.cs)
 - Unit Tests: [BillDivisionTests.cs](./HackerRankProblems.Tests/Easy/BillDivisionTests.cs)
 
+11. [Maximum Element](https://www.hackerrank.com/challenges/maximum-element/problem?isFullScreen=true)
+- Description: You have an empty sequence, and you will be given  queries. 
+				 Each query is one of these three types:
+				 1 x  -Push the element x into the stack.
+				 2    -Delete the element present at the top of the stack.
+				 3    -Print the maximum element in the stack.
+- Solution: [MaximumElement.cs](./ProblemSolving(HackerRank)/Easy/MaximumElement.cs)
+- Unit Tests: [MaximumElementTests.cs](./HackerRankProblems.Tests/Easy/MaximumElementTests.cs)
+
+
 ## Medium Problems
 
 1. [Sparse Arrays](https://www.hackerrank.com/challenges/sparse-arrays/problem?isFullScreen=true)
