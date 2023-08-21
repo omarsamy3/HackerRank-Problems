@@ -78,6 +78,12 @@ Return an array of the results.
 - Solution: [SparseArrays.cs](./ProblemSolving(HackerRank)/Medium/SparseArrays.cs)
 - Unit Tests: [SparseArraysTests.cs](./HackerRankProblems.Tests/Medium/SparseArraysTests.cs)
 
+2. [Balanced Brackets](https://www.hackerrank.com/challenges/balanced-brackets/problem?isFullScreen=true)
+- Description: Given n strings of brackets, determine whether each sequence of brackets is balanced.
+Return YES, if the string is balanced. Otherwise, return NO.
+- Solution: [BalancedBrackets.cs](./ProblemSolving(HackerRank)/Medium/BalancedBrackets.cs)
+- Unit Tests: [BalancedBracketsTests.cs](./HackerRankProblems.Tests/Medium/BalancedBracketsTests.cs)
+
 ## Hard Problems
 
 1. [Array Manipulation](https://www.hackerrank.com/challenges/crush/problem?isFullScreen=true)

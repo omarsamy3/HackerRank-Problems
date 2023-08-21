@@ -3,7 +3,7 @@ using ProblemSolving_HackerRank_.Easy;
 using ProblemSolving_HackerRank_.Hard;
 using ProblemSolving_HackerRank_.Medium;
 
-
+balancedBrackets();
 //TryAll();
 static void TryAll()
 {
@@ -36,6 +36,7 @@ static void TryAll()
 
 	#region Medium Problems
 	sparseArray();
+	balancedBrackets();
 	#endregion
 
 	#region Hard Problems
@@ -166,6 +167,13 @@ static void sparseArray()
 						"sdaklfj","asdjf","na","asdjf","na","basdn","sdaklfj","asdjf" },
 		new List<string>() { "abcde", "sdaklfj", "asdjf", "na", "basdn" })); //[1, 3, 4, 3, 2]
 } 
+
+static void balancedBrackets()
+{
+	Console.WriteLine(BalancedBrackets.isBalanced("{[()]}"));			//YES
+	Console.WriteLine(BalancedBrackets.isBalanced("{[(])}"));			//NO
+	Console.WriteLine(BalancedBrackets.isBalanced("{{[[(())]]}}"));  //YES
+}
 #endregion
 
 #region Hard Problems
