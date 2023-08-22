@@ -3,7 +3,7 @@ using ProblemSolving_HackerRank_.Easy;
 using ProblemSolving_HackerRank_.Hard;
 using ProblemSolving_HackerRank_.Medium;
 
-balancedBrackets();
+equalStacks();
 //TryAll();
 static void TryAll()
 {
@@ -31,6 +31,8 @@ static void TryAll()
 	printLinkedList();
 
 	maximumElement();
+
+	equalStacks();
 
 	#endregion
 
@@ -148,6 +150,15 @@ static void maximumElement()
 		   {
 		   "1 97","2","1 20","2","1 26","1 20","2","3","1 91","3"
 		   });
+}
+
+static void equalStacks()
+{
+	Console.WriteLine(EqualStacks.equalStacks(
+		 new List<int>() { 3, 2, 1, 1, 1 },
+		 new List<int>() { 4, 3, 2 },
+		 new List<int>() { 1, 1, 4, 1 }
+	)); //5
 }
 #endregion
 

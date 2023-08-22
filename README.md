@@ -68,6 +68,10 @@ Otherwise, it should print the integer amount of money that Brian owes Anna.
 - Solution: [MaximumElement.cs](./ProblemSolving(HackerRank)/Easy/MaximumElement.cs)
 - Unit Tests: [MaximumElementTests.cs](./HackerRankProblems.Tests/Easy/MaximumElementTests.cs)
 
+12. [Equal Stacks](https://www.hackerrank.com/challenges/equal-stacks/problem?isFullScreen=true)
+- Description: Find the maximum possible height of the stacks such that all of the stacks are exactly the same height.
+- Solution: [EqualStacks.cs](./ProblemSolving(HackerRank)/Easy/EqualStacks.cs)
+- Unit Tests: [EqualStacksTests.cs](./HackerRankProblems.Tests/Easy/EqualStacksTests.cs)
 
 ## Medium Problems
 
