@@ -1,9 +1,10 @@
-﻿using ProblemSolving_HackerRank_;
+﻿using HackerRankProblems.Tests.Easy;
+using ProblemSolving_HackerRank_;
 using ProblemSolving_HackerRank_.Easy;
 using ProblemSolving_HackerRank_.Hard;
 using ProblemSolving_HackerRank_.Medium;
 
-equalStacks();
+gradingStudents();
 //TryAll();
 static void TryAll()
 {
@@ -33,6 +34,8 @@ static void TryAll()
 	maximumElement();
 
 	equalStacks();
+
+	gradingStudents();
 
 	#endregion
 
@@ -159,6 +162,11 @@ static void equalStacks()
 		 new List<int>() { 4, 3, 2 },
 		 new List<int>() { 1, 1, 4, 1 }
 	)); //5
+}
+
+static void gradingStudents()
+{
+	Helper.PrintList(GradingStudents.gradingStudents(new List<int> { 73, 67, 38, 33 }));
 }
 #endregion
 

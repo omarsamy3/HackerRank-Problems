@@ -73,6 +73,12 @@ Otherwise, it should print the integer amount of money that Brian owes Anna.
 - Solution: [EqualStacks.cs](./ProblemSolving(HackerRank)/Easy/EqualStacks.cs)
 - Unit Tests: [EqualStacksTests.cs](./HackerRankProblems.Tests/Easy/EqualStacksTests.cs)
 
+13. [Grading Students](https://www.hackerrank.com/challenges/grading/problem?isFullScreen=true)
+- Description: Given the initial value of grades for each student, write code to automate the rounding process.
+- Solution: [GradingStudents.cs](./ProblemSolving(HackerRank)/Easy/GradingStudents.cs)
+- Unit Tests: [GradingStudentsTests.cs](./HackerRankProblems.Tests/Easy/GradingStudentsTests.cs)
+
+
 ## Medium Problems
 
 1. [Sparse Arrays](https://www.hackerrank.com/challenges/sparse-arrays/problem?isFullScreen=true)
