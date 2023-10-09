@@ -4,7 +4,7 @@ using ProblemSolving_HackerRank_.Easy;
 using ProblemSolving_HackerRank_.Hard;
 using ProblemSolving_HackerRank_.Medium;
 
-gradingStudents();
+pickingNumbers();
 //TryAll();
 static void TryAll()
 {
@@ -36,6 +36,8 @@ static void TryAll()
 	equalStacks();
 
 	gradingStudents();
+
+	pickingNumbers();
 
 	#endregion
 
@@ -167,6 +169,19 @@ static void equalStacks()
 static void gradingStudents()
 {
 	Helper.PrintList(GradingStudents.gradingStudents(new List<int> { 73, 67, 38, 33 }));
+}
+
+static void pickingNumbers()
+{
+    Console.WriteLine(PickingNumbers.pickingNumbers(new List<int> { 4, 6, 5, 3, 3, 1 })); //should be 3
+    Console.WriteLine(PickingNumbers.pickingNumbers(new List<int> { 1, 2, 2, 3, 1, 2 })); //should be 5
+    Console.WriteLine(PickingNumbers.pickingNumbers(
+		 new List<int> 
+		 { 
+			 4, 2, 3, 4, 4, 9, 98, 98, 3, 3, 3, 4, 2, 98, 1, 98, 98, 1, 1, 4, 98, 2, 98, 3, 
+			 9, 9, 3, 1, 4, 1, 98, 9, 9, 2, 9, 4, 2, 2, 9, 98, 4, 98, 1, 3, 4, 9, 1, 98, 98, 
+			 4, 2, 3, 98, 98, 1, 99, 9, 98, 98, 3, 98, 98, 4, 98, 2, 98, 4, 2, 1, 1, 9, 2, 4, 
+		 })); //should be 22
 }
 #endregion
 

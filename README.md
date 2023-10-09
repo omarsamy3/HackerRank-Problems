@@ -78,6 +78,11 @@ Otherwise, it should print the integer amount of money that Brian owes Anna.
 - Solution: [GradingStudents.cs](./ProblemSolving(HackerRank)/Easy/GradingStudents.cs)
 - Unit Tests: [GradingStudentsTests.cs](./HackerRankProblems.Tests/Easy/GradingStudentsTests.cs)
 
+14. [Picking Numbers](https://www.hackerrank.com/challenges/picking-numbers/problem?isFullScreen=true)
+- Description: Given an array of integers, find the longest subarray 
+			   where the absolute difference between any two elements is less than or equal to 1.
+- Solution: [PickingNumbers.cs](./ProblemSolving(HackerRank)/Easy/PickingNumbers.cs)
+- Unit Tests: [PickingNumbersTests.cs](./HackerRankProblems.Tests/Easy/PickingNumbersTests.cs)
 
 ## Medium Problems
 
