@@ -84,6 +84,16 @@ Otherwise, it should print the integer amount of money that Brian owes Anna.
 - Solution: [PickingNumbers.cs](./ProblemSolving(HackerRank)/Easy/PickingNumbers.cs)
 - Unit Tests: [PickingNumbersTests.cs](./HackerRankProblems.Tests/Easy/PickingNumbersTests.cs)
 
+15. [Cats and a Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem?isFullScreen=true)
+- Description: Two cats and a mouse are at various positions on a line 
+			   You will be given their starting positions. 
+			   Your task is to determine which cat will reach the mouse first, 
+			   assuming the mouse does not move and the cats travel at equal speed. 
+			   If the cats arrive at the same time, the mouse will be allowed to move 
+			   and it will escape while they fight.
+- Solution: [CatsAndAMouse.cs](./ProblemSolving(HackerRank)/Easy/CatsAndAMouse.cs)
+- Unit Tests: [CatsAndAMouseTests.cs](./HackerRankProblems.Tests/Easy/CatsAndAMouseTests.cs)
+
 ## Medium Problems
 
 1. [Sparse Arrays](https://www.hackerrank.com/challenges/sparse-arrays/problem?isFullScreen=true)
