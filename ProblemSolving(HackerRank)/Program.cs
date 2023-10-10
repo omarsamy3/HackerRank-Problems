@@ -4,7 +4,7 @@ using ProblemSolving_HackerRank_.Easy;
 using ProblemSolving_HackerRank_.Hard;
 using ProblemSolving_HackerRank_.Medium;
 
-pickingNumbers();
+catsAndMouse();
 //TryAll();
 static void TryAll()
 {
@@ -38,6 +38,7 @@ static void TryAll()
 	gradingStudents();
 
 	pickingNumbers();
+	catsAndMouse();
 
 	#endregion
 
@@ -182,6 +183,13 @@ static void pickingNumbers()
 			 9, 9, 3, 1, 4, 1, 98, 9, 9, 2, 9, 4, 2, 2, 9, 98, 4, 98, 1, 3, 4, 9, 1, 98, 98, 
 			 4, 2, 3, 98, 98, 1, 99, 9, 98, 98, 3, 98, 98, 4, 98, 2, 98, 4, 2, 1, 1, 9, 2, 4, 
 		 })); //should be 22
+}
+
+static void catsAndMouse()
+{
+    Console.WriteLine(CatsAndAMouse.catAndMouse(2, 5, 4)); //Cat B
+    Console.WriteLine(CatsAndAMouse.catAndMouse(1, 2, 3)); //Cat B
+    Console.WriteLine(CatsAndAMouse.catAndMouse(1, 3, 2)); //Mouse C
 }
 #endregion
 
