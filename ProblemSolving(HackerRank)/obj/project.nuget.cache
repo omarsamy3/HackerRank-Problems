@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "SEixw6fru6A4g6LHSJ1bhIqa8RGxW4du350mcP2yJF8FIoR1tldpIzviXP2/g056VkOlTWpCKhXm3TgYYGg+rA==",
+  "dgSpecHash": "yT8w8Fl8u7A=",
   "success": true,
-  "projectFilePath": "E:\\A1Programming\\Training Coding\\Problem Solving\\HackerRank\\ProblemSolving(HackerRank)\\ProblemSolving(HackerRank).csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\a0093700\\Mine\\Probelm_Solving\\HackerRank-Problems\\ProblemSolving(HackerRank)\\ProblemSolving(HackerRank).csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\a0093700\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.35\\microsoft.windowsdesktop.app.ref.6.0.35.nupkg.sha512",
+    "C:\\Users\\a0093700\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.35\\microsoft.netcore.app.ref.6.0.35.nupkg.sha512",
+    "C:\\Users\\a0093700\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.35\\microsoft.aspnetcore.app.ref.6.0.35.nupkg.sha512",
+    "C:\\Users\\a0093700\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.35\\microsoft.netcore.app.host.win-x64.6.0.35.nupkg.sha512"
+  ],
   "logs": []
 }

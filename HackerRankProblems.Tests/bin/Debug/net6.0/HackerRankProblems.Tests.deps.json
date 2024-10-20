@@ -1131,7 +1131,10 @@
       "xunit.runner.visualstudio/2.4.3": {},
       "ProblemSolving(HackerRank)/1.0.0": {
         "runtime": {
-          "ProblemSolving(HackerRank).dll": {}
+          "ProblemSolving(HackerRank).dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }

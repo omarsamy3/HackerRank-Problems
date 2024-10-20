@@ -94,6 +94,12 @@ Otherwise, it should print the integer amount of money that Brian owes Anna.
 - Solution: [CatsAndAMouse.cs](./ProblemSolving(HackerRank)/Easy/CatsAndAMouse.cs)
 - Unit Tests: [CatsAndAMouseTests.cs](./HackerRankProblems.Tests/Easy/CatsAndAMouseTests.cs)
 
+16. [Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange/problem?isFullScreen=true)
+- Description: Sam's house has an apple tree and an orange tree that yield an abundance of fruit. 
+               Using the information given below, determine the number of apples and oranges that land on Sam's house.
+- Solution: [AppleAndOrange.cs](./ProblemSolving(HackerRank)/Easy/AppleAndOrange.cs)
+- Unit Tests: [AppleAndOrangeTests.cs](./HackerRankProblems.Tests/Easy/AppleAndOrangeTests.cs)
+
 ## Medium Problems
 
 1. [Sparse Arrays](https://www.hackerrank.com/challenges/sparse-arrays/problem?isFullScreen=true)

@@ -4,7 +4,7 @@ using ProblemSolving_HackerRank_.Easy;
 using ProblemSolving_HackerRank_.Hard;
 using ProblemSolving_HackerRank_.Medium;
 
-catsAndMouse();
+CountApplesAndOranges();
 //TryAll();
 static void TryAll()
 {
@@ -38,6 +38,7 @@ static void TryAll()
 	gradingStudents();
 
 	pickingNumbers();
+
 	catsAndMouse();
 
 	#endregion
@@ -190,6 +191,11 @@ static void catsAndMouse()
     Console.WriteLine(CatsAndAMouse.catAndMouse(2, 5, 4)); //Cat B
     Console.WriteLine(CatsAndAMouse.catAndMouse(1, 2, 3)); //Cat B
     Console.WriteLine(CatsAndAMouse.catAndMouse(1, 3, 2)); //Mouse C
+}
+
+static void CountApplesAndOranges()
+{
+	AppleAndOrange.countApplesAndOranges(7, 10, 4, 12, new List<int>() { 2, 3, -4 }, new List<int>() { 3, -2, -4 });
 }
 #endregion
 

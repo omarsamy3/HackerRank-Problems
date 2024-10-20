@@ -13,3 +13,18 @@ E:\A1Programming\Training Coding\Problem Solving\HackerRank\ProblemSolving(Hacke
 E:\A1Programming\Training Coding\Problem Solving\HackerRank\ProblemSolving(HackerRank)\obj\Debug\net6.0\ProblemSolving(HackerRank).pdb
 E:\A1Programming\Training Coding\Problem Solving\HackerRank\ProblemSolving(HackerRank)\obj\Debug\net6.0\ProblemSolving(HackerRank).genruntimeconfig.cache
 E:\A1Programming\Training Coding\Problem Solving\HackerRank\ProblemSolving(HackerRank)\obj\Debug\net6.0\ref\ProblemSolving(HackerRank).dll
+C:\Users\a0093700\Mine\Probelm_Solving\HackerRank-Problems\ProblemSolving(HackerRank)\bin\Debug\net6.0\ProblemSolving(HackerRank).exe
+C:\Users\a0093700\Mine\Probelm_Solving\HackerRank-Problems\ProblemSolving(HackerRank)\bin\Debug\net6.0\ProblemSolving(HackerRank).deps.json
+C:\Users\a0093700\Mine\Probelm_Solving\HackerRank-Problems\ProblemSolving(HackerRank)\bin\Debug\net6.0\ProblemSolving(HackerRank).runtimeconfig.json
+C:\Users\a0093700\Mine\Probelm_Solving\HackerRank-Problems\ProblemSolving(HackerRank)\bin\Debug\net6.0\ProblemSolving(HackerRank).dll
+C:\Users\a0093700\Mine\Probelm_Solving\HackerRank-Problems\ProblemSolving(HackerRank)\bin\Debug\net6.0\ProblemSolving(HackerRank).pdb
+C:\Users\a0093700\Mine\Probelm_Solving\HackerRank-Problems\ProblemSolving(HackerRank)\obj\Debug\net6.0\ProblemSolving(HackerRank).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a0093700\Mine\Probelm_Solving\HackerRank-Problems\ProblemSolving(HackerRank)\obj\Debug\net6.0\ProblemSolving(HackerRank).AssemblyInfoInputs.cache
+C:\Users\a0093700\Mine\Probelm_Solving\HackerRank-Problems\ProblemSolving(HackerRank)\obj\Debug\net6.0\ProblemSolving(HackerRank).AssemblyInfo.cs
+C:\Users\a0093700\Mine\Probelm_Solving\HackerRank-Problems\ProblemSolving(HackerRank)\obj\Debug\net6.0\ProblemSolving(HackerRank).csproj.CoreCompileInputs.cache
+C:\Users\a0093700\Mine\Probelm_Solving\HackerRank-Problems\ProblemSolving(HackerRank)\obj\Debug\net6.0\ProblemSolving(HackerRank).sourcelink.json
+C:\Users\a0093700\Mine\Probelm_Solving\HackerRank-Problems\ProblemSolving(HackerRank)\obj\Debug\net6.0\ProblemSolving(HackerRank).dll
+C:\Users\a0093700\Mine\Probelm_Solving\HackerRank-Problems\ProblemSolving(HackerRank)\obj\Debug\net6.0\refint\ProblemSolving(HackerRank).dll
+C:\Users\a0093700\Mine\Probelm_Solving\HackerRank-Problems\ProblemSolving(HackerRank)\obj\Debug\net6.0\ProblemSolving(HackerRank).pdb
+C:\Users\a0093700\Mine\Probelm_Solving\HackerRank-Problems\ProblemSolving(HackerRank)\obj\Debug\net6.0\ProblemSolving(HackerRank).genruntimeconfig.cache
+C:\Users\a0093700\Mine\Probelm_Solving\HackerRank-Problems\ProblemSolving(HackerRank)\obj\Debug\net6.0\ref\ProblemSolving(HackerRank).dll
